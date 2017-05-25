@@ -1,4 +1,8 @@
-# ZipGeo Project :earth_americas: [![Build Status](https://travis-ci.org/TheDMSGroup/zipgeo.svg?branch=master)](https://travis-ci.org/TheDMSGroup/zipgeo)
+# ZipGeo Project :earth_americas:
+
+## Continuous Integration status with Travis (For the original source project)
+
+[![Build Status](https://travis-ci.org/TheDMSGroup/zipgeo.svg?branch=master)](https://travis-ci.org/TheDMSGroup/zipgeo)
 
 ## Continuous Integration status with Circle CI
 
